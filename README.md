@@ -1,4 +1,4 @@
-# celesto-ai
+# Celesto AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,132 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 celesto-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://celesto.ai/
+
+**Areas:** AI · CI · Runners · Cloud · Automation · Company
+
+## Celesto AI on APIs.io
+
+Everything profiled for Celesto AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/celesto-ai/](https://apis.io/providers/celesto-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Celesto AI API](https://apis.io/apis/celesto-ai/celesto-ai-api/) — API reference for Celesto AI cloud CLI
+- [Celesto AI agentor API](https://apis.io/apis/celesto-ai/agentor-api/) — Celesto AI agentor API as documented publicly: 6 operations. Contract generated from the documentation by API Evangelist (2026-11-04); not the provider's…
+- [Celesto AI celesto API](https://apis.io/apis/celesto-ai/celesto-api/) — Celesto AI celesto API as documented publicly: 7 operations. Contract generated from the documentation by API Evangelist (2026-11-04); not the provider's…
+- [Celesto AI core API](https://apis.io/apis/celesto-ai/core-api/) — Celesto AI core API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-11-04); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (10)
+
+The data models the API reads and writes.
+
+- [GetChatResponse](https://apis.io/schemas/celesto-ai/celesto-ai-get-chat-response/)
+- [GetResponse](https://apis.io/schemas/celesto-ai/celesto-ai-get-response/)
+- [GetSandboxesIdDesktopResponse](https://apis.io/schemas/celesto-ai/celesto-ai-get-sandboxes-id-desktop-response/)
+- [PostChatRequest](https://apis.io/schemas/celesto-ai/celesto-ai-post-chat-request/)
+- [PostComputersIdTerminalsResponse](https://apis.io/schemas/celesto-ai/celesto-ai-post-computers-id-terminals-response/)
+- [PostRequest](https://apis.io/schemas/celesto-ai/celesto-ai-post-request/)
+- [PostSandboxesIdExecRequest](https://apis.io/schemas/celesto-ai/celesto-ai-post-sandboxes-id-exec-request/)
+- [PostSandboxesIdExecResponse](https://apis.io/schemas/celesto-ai/celesto-ai-post-sandboxes-id-exec-response/)
+- [PostSandboxesRequest](https://apis.io/schemas/celesto-ai/celesto-ai-post-sandboxes-request/)
+- [PostSandboxesResponse](https://apis.io/schemas/celesto-ai/celesto-ai-post-sandboxes-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Celesto Ai Context](https://apis.io/jsonld/celesto-ai/celesto-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Celesto AI API Rules](https://apis.io/rules/celesto-ai/celesto-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Celesto Ai Authentication](https://apis.io/security/celesto-ai/celesto-ai-authentication/)
+- [Celesto Ai Domain Security](https://apis.io/security/celesto-ai/celesto-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Celesto Ai Plans Pricing](https://apis.io/plans/celesto-ai/celesto-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://celesto.ai/)
+- [Documentation](https://docs.celesto.ai/)
+- [Getting started](https://celesto.ai/docs)
+- [Pricing](https://celesto.ai/pricing)
+- [Sign up](https://celesto.ai/sign-up)
+- [Blog](https://celesto.ai/blog/)
+- [Security](https://celesto.ai/security)
+- [Terms of service](https://celesto.ai/legal/terms)
+- [Privacy policy](https://celesto.ai/legal/privacy-policy)
+- [GitHub](https://github.com/celestoai)
+- [Status](https://status.celesto.ai/)
+
+## API Evangelist rating
+
+**Kin Score 56.4** — strong · rubric 0.26.0 · scored 2026-11-04
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 52.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 44.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/celesto-ai/](https://apis.io/providers/celesto-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Celesto AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/celesto-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
